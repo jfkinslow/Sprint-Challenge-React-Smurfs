@@ -1,3 +1,11 @@
 .App {
-  text-align: center;
+	text-align: center;
+}
+.navigation {
+	display: flex;
+	justify-content: center;
+}
+
+.navigation a {
+	margin: 10px;
 }
